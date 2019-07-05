@@ -2,3 +2,6 @@
 Applied Machine Learning in Python/Week1/readonly
 Applied Machine Learning in Python/Week2/readonly
 *.csv
+*.txt
+*.pyc
+Applied Machine Learning in Python/Week4/Unsupervised Learning.ipynb
